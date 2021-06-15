@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 40px;
+}
+
+h3{
+    background-color: white;
+    font-size: 30px;
+}
+p{
+    color: white;
+}
+#alinha{
+   text-align: center;
+}
